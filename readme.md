@@ -25,7 +25,7 @@ Este proyecto explora el uso de técnicas de aprendizaje automático para predec
     source venv/bin/activate  # Activa el entorno (Linux/macOS)
     venv\Scripts\activate.bat  # Activa el entorno (Windows)
     ```
-    -OPCIÓN B: (Anaconda)
+    - Opción B: (Anaconda)
     ```bash
     conda create -n my_virtual_env
     conda activate my_virtual_env
